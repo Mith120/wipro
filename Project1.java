@@ -1,3 +1,5 @@
+// link:https://onlinegdb.com/8GEr_Fp1A
+
 import java.util.*;
 class Main {
     public static void main(String[] args) {
