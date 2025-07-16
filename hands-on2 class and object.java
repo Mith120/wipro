@@ -1,5 +1,4 @@
-link: https://onlinegdb.com/Mx5zgpa1v
-
+//link: https://onlinegdb.com/Mx5zgpa1v
 
 import java.util.*;
 public class Main
